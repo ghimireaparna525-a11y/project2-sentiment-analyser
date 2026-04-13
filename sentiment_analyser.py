@@ -1,8 +1,8 @@
 # ============================================================
 # Citizen Feedback Sentiment Analyser
-# Project 2 of 3 – Portfolio Part b
-# Author: [Your Name]
-# Date: April 2026
+# Project 2  – Portfolio Part b
+# Author: Aparna Ghimire
+# Date: Feb 2026
 # Description: Uses the TextBlob NLP library to automatically
 #              analyse whether citizen questions and feedback
 #              are positive, negative or neutral in tone.
