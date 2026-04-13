@@ -1,8 +1,8 @@
 # Project 2 – Citizen Feedback Sentiment Analyser
 
 **Portfolio Part b – Semi-Complex AI Project**  
-**Author:** [Your Name]  
-**Date:** April 2026  
+**Author:** Aparna Ghimire 
+**Date:** Feb 2026  
 **University:** University of Bradford  
 
 ---
